@@ -1,0 +1,15 @@
+name: KitbyMLK3
+main: KitByMLK3\Main
+version: 1.0
+api: [3.0.0]
+load: HunterPVP
+author: MLK3
+description: Kits Plugin by MLK3.
+commands:
+ Member:
+  description: You Have The Kit "Member"
+   usage: "/kit Member"
+ Pro:
+  description: You Have The Kit "Pro"
+   usage  "/kit Pro"
+   permission: kit.vipkit
